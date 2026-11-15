@@ -6,7 +6,7 @@ Originally designed for **Android (Termux)** but now fully portable to **Linux**
 It runs entirely on your device, requires no internet connection, and turns your Markdown files into a beautiful, searchable web interface in real-time.
 
 ![Arcsi Quantum Search Preview](docs/PICTURES/banner.png) 
-*(A screenshot of the beautiful glassmorphism UI)*
+
 
 ## ✨ Features
 
