@@ -17,6 +17,5 @@ Lorem ipsum dolor sit amet.
 
 ```python
 print("hello")
-Bello
 
 ```
