@@ -10,3 +10,7 @@ __pycache__/
 # Rendszer
 .DS_Store
 *.pid
+
+docs/*.md
+!docs/demo.md
+!docs/teszt.md
