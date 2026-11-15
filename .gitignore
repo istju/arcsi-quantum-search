@@ -1,0 +1,12 @@
+# Generált fájlok
+docs/index.html
+engine/template.html
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Rendszer
+.DS_Store
+*.pid
