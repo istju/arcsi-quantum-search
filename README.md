@@ -7,6 +7,8 @@ It runs entirely on your device, requires no internet connection, and turns your
 
 ![Arcsi Quantum Search Preview](docs/PICTURES/banner.png) 
 
+![Arcsi Quantum Search Demo](screenshot.png)
+
 
 ## ✨ Features
 
